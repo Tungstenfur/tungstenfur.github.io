@@ -7,8 +7,10 @@ main{
     display: flex;
 }
 section{
-    width: 40vw;
+    width: 45vw;
     height: 10vw;
     background-color: antiquewhite;
     box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    flex-wrap: wrap;
+    gap: 5vw;
 }
