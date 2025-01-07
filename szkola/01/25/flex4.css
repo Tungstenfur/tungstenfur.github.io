@@ -6,10 +6,11 @@ header{
 main{
     display: flex;
     flex-wrap: wrap;
-    gap: 5vw;
+    justify-content: center;
+    gap: 3vh;    
 }
 section{
-    width: 45vw;
+    width: 48vw;
     height: 10vw;
     background-color: antiquewhite;
     box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
