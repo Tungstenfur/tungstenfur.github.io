@@ -14,10 +14,8 @@ section{
     height: 10vw;
     background-color: antiquewhite;
     box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
-    
 }
-h2::after{
-    content: "";
-    width: 48;
-    border-bottom: 1px black;
+h2{
+    border-bottom: 1px solid black;
+    width: 48vw;
 }
