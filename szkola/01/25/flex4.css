@@ -9,4 +9,6 @@ main{
 section{
     width: 40vw;
     height: 10vw;
+    background-color: antiquewhite;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
 }
