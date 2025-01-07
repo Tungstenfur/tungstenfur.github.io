@@ -1,3 +1,12 @@
 header{
     background-color: green;
+    text-align: center;
+    color: white;
+}
+main{
+    display: flex;
+}
+section{
+    width: 40vw;
+    height: 10vw;
 }
