@@ -1,4 +1,12 @@
 header{
     color: white;
     background-color: green;
+    height: 5vh;
+    display: flex;
+}
+body{
+    font-family: Arial;
+}
+span{
+    float: left;
 }
