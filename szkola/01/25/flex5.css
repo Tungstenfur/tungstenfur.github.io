@@ -1,13 +1,16 @@
-header{
+body{
+    font-family: Arial;
+}
+header {
     color: white;
     background-color: green;
     height: 5vh;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
 }
-body{
-    font-family: Arial;
-}
-span{
-    float: left;
+
+span {
+    display: flex;
+    gap: 10px;
 }
